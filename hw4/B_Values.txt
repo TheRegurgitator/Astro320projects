@@ -1,0 +1,13 @@
+fsubimage.M_67.B1.fit   1227.72  1424.24  0.376853    INDEF  err
+fsubimage.M_67.B1.fit   1245.36  1998.47  0.047779    INDEF  err
+fsubimage.M_67.B1.fit   1705.64  1752.02  0.046023    INDEF  err
+fsubimage.M_67.B1.fit   1842.39  2262.68  0.063229    INDEF  err
+fsubimage.M_67.B1.fit   2069.90  2167.01  0.037816    INDEF  err
+fsubimage.M_67.B1.fit   2237.66  2515.40  0.059351    INDEF  err
+fsubimage.M_67.B1.fit   2420.42  2518.05  0.131914    INDEF  err
+fsubimage.M_67.B1.fit   2550.23  2154.58  0.025916    INDEF  err
+fsubimage.M_67.B1.fit   2257.99  1810.00  0.023187    INDEF  err
+fsubimage.M_67.B1.fit   1968.85  1403.00  0.034769    INDEF  err
+fsubimage.M_67.B1.fit   1940.46  1662.77  0.048616    INDEF  err
+fsubimage.M_67.B1.fit   1942.23  2081.32  0.050541    INDEF  err
+
