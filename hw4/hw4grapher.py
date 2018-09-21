@@ -18,10 +18,11 @@ def greeting():
     print("HW4Grapher 1.0")
 
 class Star:
-    idNum = -1
-    dateArray = []
-    magArray = []
-    magErrorArray = []
+    def __init__(self):
+        self.idNum = -1
+        self.dateArray = []
+        self.magArray = []
+        self.magErrorArray = []
 
     @classmethod
     def appendMag(self,mag):
